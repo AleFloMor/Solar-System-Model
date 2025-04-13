@@ -1,0 +1,4 @@
+numsteps = 10000
+stepsize = 0.1
+input_file = solar_system.txt
+output_file = data.xyz
